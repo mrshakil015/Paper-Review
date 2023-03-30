@@ -1,7 +1,11 @@
 
-# Review Paper Information:
+# Submission-01 Video Presentation:
 
-### Paper Title: Face Mask Detection using Convolutional Neural Network (CNN) reduce the spread of Covid-19.
+## Paper Details: 
+**Paper Title :** Face Mask Detection using Convolutional Neural Network (CNN) reduce the spread of Covid-19.</br>
+**Paper Link  :** https://ieeexplore.ieee.org/abstract/document/9452836
+## Video: 
+**Video Link  :** https://youtu.be/J0WozxU3cKY
 
 
 
