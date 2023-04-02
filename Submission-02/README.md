@@ -1,7 +1,7 @@
 # Video Presentation:
-**Presentation Slide  :** [Face Mask Detection using CNN Paper Review Presentation.pptx](https://github.com/mrshakil015/Paper-Review/blob/5e6df25e30e3a43d7bad281b3432f8dd8ef9a6aa/Submission01/Face%20Mask%20Detection%20using%20CNN%20Paper%20Review%20Presentation.pptx)
-
-**Video Link          :** https://youtu.be/J0WozxU3cKY
+**Original Paper :** [Face Mask Detection using Convolutional Neural Network (CNN) to reduce the spread of Covid-19](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=B_jBQo0AAAAJ&citation_for_view=B_jBQo0AAAAJ:d1gkVwhDpl0C)
+</br>**Presentation Slide  :** [Face Mask Detection using CNN Paper Review Presentation.pptx](https://github.com/mrshakil015/Paper-Review/blob/5e6df25e30e3a43d7bad281b3432f8dd8ef9a6aa/Submission01/Face%20Mask%20Detection%20using%20CNN%20Paper%20Review%20Presentation.pptx)
+</br>**Video Link          :** https://youtu.be/J0WozxU3cKY
 
 # Review Research Paper List:
 ## Review Paper - 01:
